@@ -5,7 +5,10 @@
 #### Este projeto é um modelo simples de e-commerce desenvolvido com Node.js + Express + Handlebars, criado com o objetivo de estudo e aprimoramento.
 Abaixo está um roadmap estruturado, organizado em etapas de evolução realistas, que mostram domínio técnico e maturidade no desenvolvimento.
 
-![Home do projeto](./assets/imgs/home.PNG)
+<p float="left">
+  <img src="./assets/imgs/home.PNG" width="48%" />
+  <img src="./assets/imgs/cart.PNG" width="48%" />
+</p>
 
 ---
 
