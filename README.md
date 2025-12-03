@@ -1,2 +1,2 @@
-![Home do projeto](./assets/imgs/home.png)
+![Home do projeto](./assets/imgs/home.PNG)
 
